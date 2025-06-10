@@ -1,4 +1,5 @@
 # TP1_PROVIS-RIO
-Implementação de Telas e Classes Principais (Parte Lucas Rafael)
-As Classes De controller e Banco de Dados foram apenas para ajudar na implementação
-Não considerar a Tela Princioal, também apenas para controle e visualização dos Modais
+Implementação de Telas e Classes Principais (Parte Lucas Rafael GRUPO 6)
+As Classes De controller e Banco de Dados Falso foram apenas para ajudar na implementação,
+não considerar a Tela Principal, também apenas para controle e visualização dos Modais...
+Por falta de tempo para organizar, não consegui colocar no repositório do grupo, porém iremos integrar tudo...
